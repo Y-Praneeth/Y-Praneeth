@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm
 Upcoming Full Stack Developer.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Java), design (working closely with designers), front-end development (HTML5, CSS3, Javascript),database(Mysql).
+The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Java), design (working closely with designers), Front-end development (HTML5, CSS3, Javascript), Database(Mysql).
 
 <!--
 I'm
