@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-Y S N Praneeth-red)](https://www.youtube.com/)
+<!--[![YouTube Badge](https://img.shields.io/badge/YouTube-Y S N Praneeth-red)](https://www.youtube.com/)-->
 [![Linkedin Badge](https://img.shields.io/badge/-Praneeth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/y-s-n-praneeth-372797195/)](https://www.linkedin.com/in/y-s-n-praneeth-372797195/)
 <!--[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/)-->
