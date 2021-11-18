@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/)-->
 
 I'm
-Upcoming Full Stack Developer
+Upcoming Full Stack Developer.
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (Java), design (working closely with designers), front-end development (HTML5, CSS3, Javascript),database(Mysql).
 
 <!--
